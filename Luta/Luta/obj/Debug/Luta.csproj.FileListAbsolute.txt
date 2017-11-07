@@ -1,0 +1,12 @@
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\bin\Debug\Luta.exe.config
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\bin\Debug\Luta.exe
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\bin\Debug\Luta.pdb
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.csprojResolveAssemblyReference.cache
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.Form1.resources
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.Properties.Resources.resources
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.csproj.GenerateResource.Cache
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.exe
+C:\Users\luizi\Documents\Visual Studio 2015\Projects\Luta\Luta\obj\Debug\Luta.pdb
+C:\Users\luizi\Source\Repos\POO.Luta\Luta\Luta\bin\Debug\Luta.exe.config
+C:\Users\luizi\Source\Repos\POO.Luta\Luta\Luta\obj\Debug\Luta.exe
+C:\Users\luizi\Source\Repos\POO.Luta\Luta\Luta\obj\Debug\Luta.pdb
