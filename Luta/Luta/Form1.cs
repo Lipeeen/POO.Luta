@@ -16,5 +16,10 @@ namespace Luta
         {
             InitializeComponent();
         }
+
+        private void btn_general_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Teste2");
+        }
     }
 }
